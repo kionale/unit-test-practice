@@ -1,4 +1,10 @@
-function sum(a,b) {
+/**
+ * 
+ * @desc {*} a 
+ * @param {*} b 
+ * @returns 
+ */
+function sum(a, b) {
     return a + b;
 }
 

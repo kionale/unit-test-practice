@@ -44,3 +44,16 @@ Add this to package.json:
 
 ### Option 3
 > npm test --coverage
+
+#github markdown
+# The largest heading
+## The second largest heading
+###### The smallest heading
+
+Text that is not a quote
+
+> Text that is a quote
+> unit testing
+
+
+![This is an link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
